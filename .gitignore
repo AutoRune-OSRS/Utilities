@@ -1,0 +1,11 @@
+
+#file extensions
+*.iml
+*.jar
+*.deob
+*.json
+
+#directories
+.idea/
+target/
+*/target/
